@@ -10,7 +10,7 @@ It's that, except for HTML.
 
 ## Overview 
 
-This was built because there isn't a standard HTML file to help make sure a fledgling design system covers all the basic styling needs of a fully-themed web page. If your design system is worth its salt, we believe that, at a minimum, it should make this page look nice, **without** the need for any classes. 
+This was built because there isn't a standard HTML file to help make sure a fledgling design system covers all the basic styling needs of a fully-themed web page. If your design system is worth its salt, we believe that, at a minimum, it should make this page look okay, **without** the need for any classes. 
 
 Currently, this page adds the following inline css for the sake of legibility. It may not stay this way, but rest assured, any changes will be carefully considered.
 
@@ -25,9 +25,17 @@ You can use this page in any way you find helpful. If you don't know how to link
 
 ## HTML Tags
 
-These are the HTML tags that are displayed by the :
+These are the HTML tags that we currently support:
 
+- `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
+- `p`, `strong`(bold), `em`(italic)
+- `form`, `input`, `textarea`, `button`  
+- `ul`, `ol`, `li`
+- `blockquote > p`
+- `pre > code`
+- `table`, `thead`, `tr`, `th`, `tbody`
 
+(There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean, and allow options for expansion. See next section.) 
 
 
 
@@ -35,11 +43,11 @@ These are the HTML tags that are displayed by the :
 
 There's still some decision making to be done on what exactly will be considered basic-level requirements for a theme. There's a good chance it will be somewhat based on the [ComomonMark Spec](https://spec.commonmark.org/). 
 
-Also, it seems that there will be a need second level of requirements for the more ambitious designers. Perhaps these could be based on the [HTML5 Semantic Entities.](https://www.w3schools.com/html/html5_semantic_elements.asp) That's a much more opinionated area, though so it'll be   
+Also, it seems that there will be a need second level of requirements for the more ambitious designers. Perhaps these could be based on the [HTML5 Semantic Entities.](https://www.w3schools.com/html/html5_semantic_elements.asp) That's a much more opinionated area, though so it'll be considered at a later date. 
 
 
 
 
 
-[Here are some great examples](https://github.com/dbohdan/classless-css).
+[Some great examples of classless CSS themes](https://github.com/dbohdan/classless-css).
 
