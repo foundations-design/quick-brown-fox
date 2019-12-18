@@ -14,13 +14,13 @@ It's that, except for HTML.
 
 ```bash
 # Clone this repo.
-git clone https://github.com/foundations-dev/quick-brown-fox
+git clone https://github.com/foundations-dev/quick-brown-fox.git
 ```
 
 ```bash
 # Serve the HTML
 cd quick-brown-fox
-git clone https://github.com/foundations-dev/quick-brown-fox
+npx serve
 ```
 
 ###  Add Styles
