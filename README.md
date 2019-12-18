@@ -10,6 +10,8 @@ It's that, except for HTML.
 
 ## Quickstart
 
+### Install
+
 ```bash
 # Clone this repo.
 git clone https://github.com/foundations-dev/quick-brown-fox
@@ -20,6 +22,13 @@ git clone https://github.com/foundations-dev/quick-brown-fox
 cd quick-brown-fox
 git clone https://github.com/foundations-dev/quick-brown-fox
 ```
+
+###  Add Styles
+
+**Method 1** Replace `/index.css` with your custom CSS.
+
+**Method 2** In `/index.html`, replace `line 9` with a URL linking to your styles. There are several examples within `/index.html` if you want to try out some popular CSS packages&mdash;just uncomment those lines.
+
 
 ## Overview 
 
