@@ -8,6 +8,19 @@ From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_th
  
 It's that, except for HTML.
 
+## Quickstart
+
+```bash
+# Clone this repo.
+git clone https://github.com/foundations-dev/quick-brown-fox
+```
+
+```bash
+# Serve the HTML
+cd quick-brown-fox
+git clone https://github.com/foundations-dev/quick-brown-fox
+```
+
 ## Overview 
 
 This was built because there isn't a standard HTML file to help make sure a fledgling design system covers all the basic styling needs of a fully-themed web page. If your design system is worth its salt, we believe that, at a minimum, it should make this page look okay, **without** the need for any classes. 
