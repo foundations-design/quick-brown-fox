@@ -25,7 +25,7 @@ npx serve
 
 Open localhost:5000 in your browser (assuming that's the port being served)
 
-###  Add Styles
+###  2) Add Styles
 
 **Method 1** Replace `/index.css` with your custom CSS.
 
