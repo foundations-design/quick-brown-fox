@@ -27,9 +27,9 @@ Open localhost:5000 in your browser (assuming that's the port being served)
 
 ###  2) Add Styles
 
-**Method 1 -** Replace `/index.css` with your custom CSS.
+**Method 1 -** Replace `index.css` with your custom CSS.
 
-**Method 2 -** In `/index.html`, replace `line 9` with a URL linking to your styles. There are several examples within `/index.html` if you want to try out some popular CSS packages&mdash;just uncomment those lines.
+**Method 2 -** In `index.html`, replace `line 9` with a URL linking to your styles. There are several examples within `index.html` if you want to try out some popular CSS packages&mdash;just uncomment those lines.
 
 
 ## Overview 
