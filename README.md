@@ -53,11 +53,11 @@ These are the HTML tags that we currently support:
 
 - `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
 - `p`, `strong`(bold), `em`(italic)
-- `form`, `input`, `textarea`, `button`  
 - `ul`, `ol`, `li`
 - `blockquote > p`
 - `pre > code`
 - `table`, `thead`, `tr`, `th`, `tbody`
+- `form`, `input`, `textarea`, `button` 
 
 (There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean, and allow options for expansion. See next section.) 
 
