@@ -1,4 +1,4 @@
-# Quick Brown Fox
+# 🦊 Quick Brown Fox
 
 ## What is it?
 
