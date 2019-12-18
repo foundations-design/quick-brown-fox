@@ -23,7 +23,7 @@ cd quick-brown-fox
 npx serve
 ```
 
-Open localhost:5000 in your browser (assuming that's the port being served)
+Open `localhost:5000` in your browser (assuming that's the port being served)
 
 ###  2) Add Styles
 
