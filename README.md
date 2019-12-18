@@ -10,7 +10,7 @@ It's that, except for HTML.
 
 ## Quickstart
 
-### Install
+### 1) Install
 
 ```bash
 # Clone this repo.
@@ -22,6 +22,8 @@ git clone https://github.com/foundations-dev/quick-brown-fox.git
 cd quick-brown-fox
 npx serve
 ```
+
+Open localhost:5000 in your browser (assuming that's the port being served)
 
 ###  Add Styles
 
