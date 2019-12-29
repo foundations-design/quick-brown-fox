@@ -54,6 +54,7 @@ These are the HTML tags that we currently support:
 - `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
 - `p`, `strong`(bold), `em`(italic)
 - `ul`, `ol`, `li`
+- `hr`
 - `blockquote > p`
 - `pre > code`
 - `table`, `thead`, `tr`, `th`, `tbody`
