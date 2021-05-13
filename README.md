@@ -49,7 +49,7 @@ You can use this page in any way you find helpful. If you don't know how to link
 
 ## HTML Tags
 
-These are the HTML tags that we currently support:
+These are the HTML tags that are currently supported:
 
 - `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
 - `p`, `strong`(bold), `em`(italic)
