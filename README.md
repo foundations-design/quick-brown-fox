@@ -14,7 +14,7 @@ It's that, except for HTML and CSS.
 
 ```bash
 # Clone this repo.
-git clone https://github.com/foundations-dev/quick-brown-fox.git
+git clone https://github.com/foundations-design/quick-brown-fox.git
 ```
 
 ```bash
