@@ -12,13 +12,13 @@ It's that, except for HTML
 
 ### 1) Install
 
+**Clone this repo:**
 ```bash
-# Clone this repo.
 git clone https://github.com/foundations-design/quick-brown-fox.git
 ```
 
+**Serve the HTML:**
 ```bash
-# Serve the HTML
 cd quick-brown-fox
 npx serve
 ```
