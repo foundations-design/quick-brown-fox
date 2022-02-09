@@ -10,28 +10,27 @@ It's that, except for HTML
 
 ## Quickstart
 
-### 1) Install
-
-**Clone this repo:**
+**1) Clone this repo:**
 ```bash
 git clone https://github.com/foundations-design/quick-brown-fox.git
 ```
 
-**Serve the HTML:**
+**2) Serve the HTML:**
 ```bash
 cd quick-brown-fox
 npx serve
 ```
 
-Open `localhost:5000` in your browser (assuming that's the port being served)
+Npx copies the URL to your clipboard. Paste it in your browser.
 
-###  2) Add Styles
+**3) Add Styles:**
+Uncomment one of the `<link />` tags in index.html.
+
+## Adding Custom Styles
 
 **Method 1:**
 
 In `index.html`, replace `<link rel="stylesheet" href="index.css" type="text/css" />` with a URL linking to your styles.
-
-There are several examples within `index.html` of some popular CSS Themes. Just uncomment those lines to give them a look.
 
 **Method 2:**
 
@@ -39,9 +38,11 @@ Replace `index.css` with your custom CSS.
 
 ## Overview 
 
-This was built because there isn't a standard HTML file to help make sure a fledgling design system covers all the basic styling needs of a fully-themed web page. If your design system is worth its salt, we believe that, at a minimum, it should make this page look okay, **without** the need for any classes. 
+This was built because there isn't a standard HTML file to help make sure a fledgling design system covers all the basic styling needs of a fully-themed web page. 
 
-Currently, this page adds the following inline css for the sake of legibility. It may not stay this way, but rest assured, any changes will be carefully considered.
+We believe that at a minimum, it should make this page look okay, **without** the need for any classes.
+
+Currently, this page adds the following inline css for the sake of legibility.
 
 ```css
 body {
@@ -65,9 +66,7 @@ These are the HTML tags that are currently supported:
 - `table`, `thead`, `tr`, `th`, `tbody`
 - `form`, `input`, `textarea`, `button` 
 
-(There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean, and allow options for expansion. See next section.) 
-
-
+There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean (but allow options for expansion).
 
 ## Looking forward
 
