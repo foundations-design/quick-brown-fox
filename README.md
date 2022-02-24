@@ -1,6 +1,5 @@
 # 🦊 Quick Brown Fox
 
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## What is it?
 
@@ -9,6 +8,10 @@ From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_th
 > **"The quick brown fox jumps over the lazy dog"** is an English-language pangram—a sentence that contains all of the letters of the alphabet. It is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired.
  
 It's that, except for HTML
+
+<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+---
 
 ## Quickstart
 
