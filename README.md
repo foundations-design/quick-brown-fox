@@ -26,6 +26,10 @@ Npx copies the URL to your clipboard. Paste it in your browser.
 **3) Add Styles:**
 Uncomment one of the `<link />` tags in index.html.
 
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+---
+
 ## Adding Custom Styles
 
 **Method 1:**
