@@ -95,7 +95,7 @@ These are the HTML tags that are currently supported:
 
 There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean (but allow options for expansion).
 
-These are based on the [Github Flavored Mardown Spec](https://github.github.com/gfm/). (why that one)[https://github.com/foundations-design/quick-brown-fox/issues/2#issuecomment-1039557401]
+These are based on the [Github Flavored Mardown Spec](https://github.github.com/gfm/). [why that one](https://github.com/foundations-design/quick-brown-fox/issues/2#issuecomment-1039557401)
 
 ## Roadmap 
 - [ ] Standardize supported tag list
