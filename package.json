@@ -1,0 +1,20 @@
+{
+   "name": "quick-brown-fox",
+   "version": "0.0.0",
+   "description": "An HTML/CSS Previewer",
+   "main": "index.html",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/foundations-design/quick-brown-fox.git"
+   },
+   "keywords": [
+      "classless",
+      "css"
+   ],
+   "author": "Earl Man",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/foundations-design/quick-brown-fox/issues"
+   },
+   "homepage": "https://github.com/foundations-design/quick-brown-fox#readme"
+}
