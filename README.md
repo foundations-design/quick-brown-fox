@@ -1,7 +1,7 @@
-# 🦊 Quick Brown Fox
+# 🦊 Quick Brown Fox - An HTML/CSS Previewer
 
 
-## What is it?
+## Intro
 
 From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog):
 
