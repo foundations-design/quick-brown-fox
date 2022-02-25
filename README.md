@@ -16,7 +16,7 @@ npx serve
 `npx` copies the URL to your clipboard. Paste it in your browser.
 
 **3) Add Styles:**
-Uncomment one of the `<link />` tags in index.html.
+Uncomment one of the `<link />` tags in index.html and refresh the page.
 
 ---
 
@@ -97,7 +97,7 @@ These are based on the [Github Flavored Mardown Spec](https://github.github.com/
 
 ## Roadmap 
 - [ ] Standardize supported tag list
-- [ ] Create extended tag list
+- [ ] Create extended tag list (include form fields)
 - Consider: HTML5 Semantic Entities  
   - Another level of requirements could be based on the [HTML5 Semantic Entities.](https://www.w3schools.com/html/html5_semantic_elements.asp) That's a much more opinionated area, though so it'll be considered at a later date. 
 
