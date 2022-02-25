@@ -1,20 +1,5 @@
 # 🦊 Quick Brown Fox - An HTML/CSS Previewer
 
-
-## Intro
-
-From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog):
-
-> **"The quick brown fox jumps over the lazy dog"** is an English-language pangram—a sentence that contains all of the letters of the alphabet. It is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired.
- 
-It's that, except for HTML
-
-QBF has zero dependencies, uses a standards-based approach, and maximizes flexibility. This project looks to support the craftspeople of the web.
-
-<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
----
-
 ## Quickstart
 
 **1) Clone this repo:**
@@ -24,16 +9,29 @@ git clone https://github.com/foundations-design/quick-brown-fox.git
 
 **2) Serve the HTML:**
 ```bash
-cd quick-brown-fox
+cd quick-brown-fox/src
 npx serve
 ```
 
-Npx copies the URL to your clipboard. Paste it in your browser.
+`npx` copies the URL to your clipboard. Paste it in your browser.
 
 **3) Add Styles:**
 Uncomment one of the `<link />` tags in index.html.
 
 ---
+
+## Intro
+
+From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog):
+
+> **"The quick brown fox jumps over the lazy dog"** is an English-language pangram—a sentence that contains all of the letters of the alphabet. It is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired.
+ 
+It's that, except for HTML
+
+QBF has zero dependencies, uses a standards-based approach, and is beginner-friendly. We aim to support the craftspeople of the web.
+
+<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 
 ## Adding Custom Styles
 
