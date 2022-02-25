@@ -9,6 +9,8 @@ From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_th
  
 It's that, except for HTML
 
+QBF has zero dependencies, uses a standards-based approach, and maximizes flexibility. This project looks to support the craftspeople of the web.
+
 <a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ---
@@ -64,6 +66,24 @@ You can use this page in any way you find helpful. If you don't know how to link
 
 These are the HTML tags that are currently supported:
 
+- **Leaf Tags**
+  - `p`
+  - `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
+  - `hr`
+  - `table`, `thead`, `tr`, `th`, `tbody`
+  - `pre > code`
+- **Inline Tags**
+  - `strong`(bold), `em`(italic), 
+     - add: `del`(strikethrough)
+  - add: `code`
+  - add `a`
+  - add `img`
+- **Container Tags**
+  - `ul`, `ol`, `li`
+  - `blockquote`
+
+(currently visible on page)
+
 - `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
 - `p`, `strong`(bold), `em`(italic)
 - `ul`, `ol`, `li`
@@ -75,15 +95,21 @@ These are the HTML tags that are currently supported:
 
 There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean (but allow options for expansion).
 
-## Looking forward
+These are based on the [Github Flavored Mardown Spec](https://github.github.com/gfm/). (why that one)[https://github.com/foundations-design/quick-brown-fox/issues/2#issuecomment-1039557401]
 
-There's still some decision making to be done on what exactly will be considered basic-level requirements for a theme. There's a good chance it will be somewhat based on the [ComomonMark Spec](https://spec.commonmark.org/). 
+## Roadmap 
+- [ ] Standardize supported tag list
+- [ ] Create extended tag list
+- Consider: HTML5 Semantic Entities  
+  - Another level of requirements could be based on the [HTML5 Semantic Entities.](https://www.w3schools.com/html/html5_semantic_elements.asp) That's a much more opinionated area, though so it'll be considered at a later date. 
 
-Also, it seems that there will be a need second level of requirements for the more ambitious designers. Perhaps these could be based on the [HTML5 Semantic Entities.](https://www.w3schools.com/html/html5_semantic_elements.asp) That's a much more opinionated area, though so it'll be considered at a later date. 
+
 
 
 
 
 
 [Some great examples of classless CSS themes](https://github.com/dbohdan/classless-css).
+
+s/o to [sakura](https://github.com/oxalorg/sakura) by @oxalorg
 
