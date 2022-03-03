@@ -22,15 +22,9 @@ Uncomment one of the `<link />` tags in index.html and refresh the page.
 
 ## Intro
 
-From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog):
-
-> **"The quick brown fox jumps over the lazy dog"** is an English-language pangram—a sentence that contains all of the letters of the alphabet. It is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired.
+> **"The quick brown fox jumps over the lazy dog"** is an English-language pangram—a sentence that contains all of the letters of the alphabet. It is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired. - [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog)
  
-It's that, except for HTML
-
-QBF has zero dependencies, uses a standards-based approach, and is beginner-friendly. We aim to support the craftspeople of the web.
-
-<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+QBF is that, except for HTML. It has zero dependencies, uses a standards-based approach, and is beginner-friendly. We aim to support the craftspeople of the web.
 
 
 ## Adding Custom Styles
@@ -110,4 +104,7 @@ These are based on the [Github Flavored Mardown Spec](https://github.github.com/
 [Some great examples of classless CSS themes](https://github.com/dbohdan/classless-css).
 
 s/o to [sakura](https://github.com/oxalorg/sakura) by @oxalorg
+
+
+<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
