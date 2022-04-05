@@ -32,7 +32,7 @@ Npx copies the URL to your clipboard. Paste it in your browser.
 Uncomment one of the `<link />` tags in index.html.
 
 
-<a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
 
 ---
 
