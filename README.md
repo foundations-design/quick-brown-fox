@@ -1,5 +1,18 @@
 # 🦊 Quick Brown Fox - An HTML/CSS Previewer
 
+
+## Intro
+
+From [Wikipedia](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog):
+
+> **"The quick brown fox jumps over the lazy dog"** is an English-language pangram—a sentence that contains all of the letters of the alphabet. It is commonly used for touch-typing practice, testing typewriters and computer keyboards, displaying examples of fonts, and other applications involving text where the use of all letters in the alphabet is desired.
+ 
+It's that, except for HTML
+
+QBF has zero dependencies, uses a standards-based approach, and maximizes flexibility. This project looks to support the craftspeople of the web.
+
+---
+
 ## Quickstart
 
 **1) Clone this repo:**
@@ -17,6 +30,9 @@ npx serve
 
 **3) Add Styles:**
 Uncomment one of the `<link />` tags in index.html and refresh the page.
+
+
+<a href="https://www.buymeacoffee.com/earlman" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=earlman&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ---
 
@@ -87,7 +103,7 @@ These are the HTML tags that are currently supported:
 
 There are more tags currently visible on the page, but they may be removed at a later date. It's important we try to keep this lean (but allow options for expansion).
 
-These are based on the [Github Flavored Mardown Spec](https://github.github.com/gfm/). (why that one)[https://github.com/foundations-design/quick-brown-fox/issues/2#issuecomment-1039557401]
+These are based on the [Github Flavored Mardown Spec](https://github.github.com/gfm/). [Here's why](https://github.com/foundations-design/quick-brown-fox/issues/2#issuecomment-1039557401)
 
 ## Roadmap 
 - [ ] Standardize supported tag list

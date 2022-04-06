@@ -38,7 +38,7 @@
     -->
 
       <div id="top">
-         <a href="https://github.com/foundations-design/quick-brown-fox">Github</a>
+         <a target="_blank" href="https://github.com/foundations-design/quick-brown-fox">Github</a>
          <h1>🦊 Quick Brown Fox</h1>
          <p>This project was created to provide a simple way to test your HTML styles.</p>
          <p>
@@ -117,31 +117,31 @@
 
          <p>
             This list was based on
-            <a href="https://github.github.com/gfm/">Github Flavored Markdown Spec</a>
-            .
+            <a href="https://github.github.com/gfm/">Github Flavored Markdown Spec</a>. 
          </p>
 
          <hr />
          <p>
             Paragraphs look like this.
-            <em>Italic</em>
-            ,
-            <strong>bold</strong>
-            , and
+            <em>Italic,</em>
+            <strong>bold,</strong>
+            and
             <del>strikethrough</del>
             look like this.
          </p>
-         <p>
-            <strong>Here's a block quote</strong>
-            :
-         </p>
-         <blockquote>
-            <p>
-               Man surprised me most about humanity. Because he sacrifices his health in order to make money. Then he sacrifices money to recuperate his health. And then he is so
-               anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to
-               die, and then dies having never really lived. - James J Lachard
-            </p>
-         </blockquote>
+         <p>Here's a block quote:</p>
+         <figure>
+            <blockquote>
+               <p>
+                  I like to think that in the run-up to his final keynote, Steve made time for a long, peaceful walk. Somewhere beautiful, where there are no footpaths and the
+                  grass grows thick. Hand-in-hand with his wife and family, the sun warm on their backs, smiles on their faces, love in their hearts, at peace with their fate.
+               </p>
+            </blockquote>
+            <figcaption>
+               - John Gruber (creator of markdown)—
+               <a href="https://daringfireball.net/2011/10/universe_dented_grass_underfoot" target="_blank"><em>Universe Dented, Grass Underfoot</em></a>
+            </figcaption>
+         </figure>
 
          <h2 id="an-h2-header">An h2 header</h2>
          <p><strong>Some code blocks</strong></p>
@@ -268,8 +268,8 @@ goto first step (or shut off burner when done)</code></pre>
 
          <h1 id="form-elements">Form Elements</h1>
          <form>
-            <fieldset id="forms__input">
-               <legend>Input fields</legend>
+            <div id="forms__input">
+               <h2>Input fields</h2>
                <p>
                   <label for="input__text">Text Input</label>
                   <input id="input__text" placeholder="Text Input" type="text" />
@@ -306,10 +306,13 @@ goto first step (or shut off burner when done)</code></pre>
                   <label for="input__text4">Valid</label>
                   <input id="input__text4" placeholder="Text Input" type="text" />
                </p>
-            </fieldset>
-            <p><a href="#top">[Top]</a></p>
-            <fieldset id="forms__select">
-               <legend>Select menus</legend>
+               <p>
+                  <label for="textarea">Textarea</label>
+                  <textarea cols="48" id="textarea" placeholder="Enter your message here" rows="8"></textarea>
+               </p>
+            </div>
+            <div id="forms__select">
+               <h2>Select menus</h2>
                <p>
                   <label for="select">Select</label>
                   <select id="select">
@@ -320,10 +323,10 @@ goto first step (or shut off burner when done)</code></pre>
                      </optgroup>
                   </select>
                </p>
-            </fieldset>
+            </div>
             <p><a href="#top">[Top]</a></p>
-            <fieldset id="forms__checkbox">
-               <legend>Checkboxes</legend>
+            <div id="forms__checkbox">
+               <h2>Checkboxes</h2>
                <ul>
                   <li>
                      <label for="checkbox1">
@@ -344,18 +347,10 @@ goto first step (or shut off burner when done)</code></pre>
                      </label>
                   </li>
                </ul>
-            </fieldset>
+            </div>
             <p><a href="#top">[Top]</a></p>
-            <fieldset id="forms__textareas">
-               <legend>Textareas</legend>
-               <p>
-                  <label for="textarea">Textarea</label>
-                  <textarea cols="48" id="textarea" placeholder="Enter your message here" rows="8"></textarea>
-               </p>
-            </fieldset>
-            <p><a href="#top">[Top]</a></p>
-            <fieldset id="forms__html5">
-               <fieldset id="forms__action">
+            <div id="forms__html5">
+               <div id="forms__action">
                   <legend>Action buttons</legend>
                   <p>
                      <input type="submit" value="input type=submit" />
@@ -369,9 +364,9 @@ goto first step (or shut off burner when done)</code></pre>
                      <button type="reset">&lt;button type=reset&gt;</button>
                      <button disabled="disabled" type="button">&lt;button disabled&gt;</button>
                   </p>
-               </fieldset>
+               </div>
                <p><a href="#top">[Top]</a></p>
-            </fieldset>
+            </div>
          </form>
          <div>
             <hr />
