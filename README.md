@@ -1,5 +1,6 @@
 # 🦊 Quick Brown Fox - An HTML/CSS Previewer
 
+[Preview](qbf.foundations.design)
 
 ## Intro
 
@@ -29,7 +30,9 @@ npx serve
 Npx copies the URL to your clipboard. Paste it in your browser.
 
 **3) Add Styles:**
-Uncomment one of the `<link />` tags in index.html.
+Either:
+- Add your styles in `index.css`, or
+- Uncomment one of the `<link />` tags in index.html
 
 ---
 
